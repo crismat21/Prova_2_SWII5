@@ -1,0 +1,7 @@
+inventory\SalesmanDAO.class
+inventory\Customer.class
+inventory\Orders.class
+inventory\OrdersDAO.class
+inventory\Salesman.class
+inventory\ControllerServlet.class
+inventory\CustomerDAO.class
